@@ -1,0 +1,15 @@
+1
+Charmander
+11
+9
+12
+11
+12
+19
+Earthquake
+Scratch
+Ember
+Counter
+5
+0
+500
